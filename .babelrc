@@ -1,0 +1,15 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env", 
+            {
+                targets: {
+                    "browsers": ["safari >= 7", "ie >= 9"],
+                    "node": "current"
+                },
+                useBuiltIns: "usage"
+            }
+        ],
+        "@babel/preset-stage-2"
+    ]
+}
