@@ -1,7 +1,9 @@
 # test babel-preset-env@7.x  
 
-### step1. `node webpack.dev.js`  
+### step1. `npm install`
 
-### step2. open `http://localhost:3000`
+### step2. `node webpack.dev.js`  
 
-### step3. check chrome devtools console
+### step3. open `http://localhost:3000`
+
+### step4. check chrome devtools console
